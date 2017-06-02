@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RetrofitStackOverflow</string>
+    <string name="Tagged">Tagged</string>
+    <string name="Owner">Owner</string>
+    <string name="Repulation">Repulation :</string>
+    <string name="UserId">User id:</string>
+    <string name="UserType">User Type</string>
+    <string name="AcceptRate">Accept rate</string>
+    <string name="profile_image">Profile image</string>
+    <string name="display_name">Display name</string>
+    <string name="link">Link</string>
+    <string name="item">Item</string>
+    <string name="is_answered">Is answered</string>
+    <string name="view_count">View count</string>
+    <string name="answered_count">Answer count</string>
+    <string name="score">Score</string>
+    <string name="last_activity_date">Last activity date</string>
+    <string name="creation_date">Creation date</string>
+    <string name="question_id">Question id</string>
+    <string name="title">Title</string>
+    <string name="has_more">Has more</string>
+    <string name="quota_max">Quota max</string>
+    <string name="quota_remaining">Quota remaining</string>
+    <string name="last_edit_date">Last edit date</string>
+</resources>
